@@ -1,3 +1,5 @@
+orig: https://github.com/ststeiger/PdfSharpCore
+
 # PdfSharpCore
 
 **PdfSharpCore** is a partial port of [PdfSharp.Xamarin](https://github.com/roceh/PdfSharp.Xamarin/) for .NET Standard
